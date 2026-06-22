@@ -14,7 +14,7 @@ Actively looking for opportunities to start my career as a Backend Developer
 🛠️ Tools & Technologies I use
 
 Languages: Java, JavaScript
-Backend: Spring Boot, REST APIs (edit if not yet learned)
+Backend: Spring Boot, REST APIs
 Database: MySQL
 Tools: Git, GitHub, VS Code / IntelliJ IDEA
 Other: HTML, CSS
