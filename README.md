@@ -23,4 +23,4 @@ Other: HTML, CSS
 
 LinkedIn: https://www.linkedin.com/in/ibrahim-s-a65108248/
 Email: ibrahimshshul22@gmail.com
-Portfolio: 
+Portfolio: https://resplendent-nasturtium-ba594a.netlify.app/
